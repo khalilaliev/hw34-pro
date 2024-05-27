@@ -4,37 +4,37 @@ const images = [
   {
     id: 1,
     title: "Angular",
-    src: "../images/angular.jpeg",
+    src: "./images/angular.jpeg",
   },
   {
     id: 2,
     title: "Java",
-    src: "../images/java.jpeg",
+    src: "./images/java.jpeg",
   },
   {
     id: 3,
     title: "JavaScript-TypeScript",
-    src: "../images/js-ts.png",
+    src: "./images/js-ts.png",
   },
   {
     id: 4,
     title: "JavaScript",
-    src: "../images/js.jpeg",
+    src: "./images/js.jpeg",
   },
   {
     id: 5,
     title: "NodeJs",
-    src: "../images/node-js.jpeg",
+    src: "./images/node-js.jpeg",
   },
   {
     id: 6,
     title: "React",
-    src: "../images/react.jpeg",
+    src: "./images/react.jpeg",
   },
   {
     id: 7,
     title: "VueJs",
-    src: "../images/vue-js.png",
+    src: "./images/vue-js.png",
   },
 ];
 
